@@ -9,7 +9,7 @@ Assets in images from [Terrain Sample Asset Pack](https://assetstore.unity.com/p
 
 
 ## unity_terrain_basic_example.hda
-A HDA provided to as a learning guide to show you how to assign attributes for material, details and trees.
+A HDA provided to as a learning guide to show you how to assign attributes for materials, details and trees. However this knowledge isn't required if you use the unity_terrain_auto.hda as all the assignments are done automatically.
 
 
 ## unity_terrain_auto.hda
