@@ -15,8 +15,9 @@ A HDA provided to as a learning guide to show you how to assign attributes for m
 ## unity_terrain_auto.hda
 This HDA is designed to automate the process of assigning materials details and trees. You can define the layers in houdini and then make all the assignments in Unity.
 
-## How to use the unity_terrain_auto.hda - in progress
-Important: If you are already familiar with Houdini engine and unity this process is fairly simple. However there is an issue with HDRP that is resolved here.
+# How to use the unity_terrain_auto.hda - in progress
+
+**Important: There is an issue with Terrain details and HDRP were instancing must be enabled for each detail**
 
 Steps:
 
