@@ -34,7 +34,7 @@ This HDA is designed to automate the process of assigning materials, details and
 <img src="Documentation/Images/Save_As.jpg" align="center" width="800"/>
 </p>
 
-- Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1\
+- Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1 \
 <img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="250"/> <img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="250"/> <img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="250"/>
 
 You can add properties for your terrain in the Type Properties of the node and put them in the empty terrain folder provided
