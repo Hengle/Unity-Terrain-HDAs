@@ -26,19 +26,19 @@ Place the node in houdini
 
 Allow editing of contents
 
-<img src="Documentation/Images/Allow_Edit.png" align="center" />
+<img src="Documentation/Images/Allow_Edit.jpg" align="center" />
 
 
 Save As
 
-<img src="Documentation/Images/Save_As.png" align="center" width="800"/>
+<img src="Documentation/Images/Save_As.jpg" align="center" width="800"/>
 
 
 Remove nodes and replace with your own
 
-<img src="Documentation/Images/Remove_Nodes.png" align="center" width="300"/>
-<img src="Documentation/Images/Nodes_Deleted.png" align="center" width="300"/>
-<img src="Documentation/Images/Replace_Nodes.png" align="center" width="300"/>
+<img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="300"/>
+<img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="300"/>
+<img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="300"/>
 
 
 Save
