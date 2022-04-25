@@ -21,7 +21,7 @@ This HDA is designed to automate the process of assigning materials details and 
 
 - Copy the files into your otls directory "C:\Users\YourUser\Documents\houdini19.0\otls"
 
-- Place the node in houdini\
+- Place the node in houdini
 <img src="Documentation/Images/Add_Node.jpg" align="center" width="800"/>
 
 - Allow editing of contents
@@ -37,20 +37,28 @@ This HDA is designed to automate the process of assigning materials details and 
 - Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1\
 <img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="250"/> <img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="250"/> <img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="250"/>
 
+You can add properties for your terrain in the Type Properties of the node and put them in the empty terrain folder provided
+<p align="center">
+<img src="Documentation/Images/Type_Properties.jpg" align="center" width="800"/>
+</p>
 
-- Save Node Type
+- Save the Node Type and then copy it into you Unity Project
 
-- Use HDA in Unity project
+- After creating a houdini engine session drag the HDA into the scene
 ![](Documentation/Images/HDA.jpg)
 
-- Assign Textures
+- Assign Textures\
+Reminder: When assigning material layers the sum of the layers must equal 
 ![](Documentation/Images/Assign_Textures.jpg)
 
-- Assign Trees
+- Assign Trees\
+You can have multiple scatter groups which can contain multiple trees. You can change the weight parameter to change the distribution of the tree type amongst the group
 ![](Documentation/Images/Assign_Trees.jpg)
 
 
-- Assign Details
+- Assign Details\
+How to enable instancing for HDRP shown below\
+Once the details are assigned you can modify the detail density by editing the details on the terrain (the same window where you enable instancing)
 ![](Documentation/Images/Assign_Details.jpg)
 
 ## IMPORTANT: Details with HDRP
