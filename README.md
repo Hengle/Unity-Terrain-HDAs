@@ -20,26 +20,19 @@ Steps:
 
 Copy the files into your otls directory "C:\Users\YourUser\Documents\houdini19.0\otls"
 
-Place the node in houdini
-
+Place the node in houdini\
 <img src="Documentation/Images/Add_Node.jpg" align="center" width="800"/>
 
-
-Allow editing of contents
-
+Allow editing of contents\
 <img src="Documentation/Images/Allow_Edit.jpg" align="center" />
 
-
-Save As
-
+Save As your new node so your changes won't modify the original\
 <img src="Documentation/Images/Save_As.jpg" align="center" width="800"/>
 
-
-Remove nodes and replace with your own
-
+Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1\
 <img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="250"/> <img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="250"/> <img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="250"/>
 
-Save
+Save Node Type
 
 Use HDA in Unity project
 ![](Documentation/Images/HDA.jpg)
