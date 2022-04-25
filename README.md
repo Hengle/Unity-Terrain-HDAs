@@ -15,44 +15,42 @@ A HDA provided to as a learning guide to show you how to assign attributes for m
 ## unity_terrain_auto.hda
 This HDA is designed to automate the process of assigning materials details and trees. You can define the layers in houdini and then make all the assignments in Unity.
 
-# How to use the unity_terrain_auto.hda - in progress
+# How to use the unity_terrain_auto.hda
 
 **Important: There is an issue with Terrain details and HDRP were instancing must be enabled for each detail**
 
-Steps:
+- Copy the files into your otls directory "C:\Users\YourUser\Documents\houdini19.0\otls"
 
-Copy the files into your otls directory "C:\Users\YourUser\Documents\houdini19.0\otls"
-
-Place the node in houdini\
+- Place the node in houdini\
 <img src="Documentation/Images/Add_Node.jpg" align="center" width="800"/>
 
-Allow editing of contents
+- Allow editing of contents
 <p align="center">
 <img src="Documentation/Images/Allow_Edit.jpg" align="center" />
 </p>
 
-Save As your new node so your changes won't modify the original
+- Save As your new node so your changes won't modify the original
 <p align="center">
 <img src="Documentation/Images/Save_As.jpg" align="center" width="800"/>
 </p>
 
-Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1\
+- Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1\
 <img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="250"/> <img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="250"/> <img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="250"/>
 
 
-Save Node Type
+- Save Node Type
 
-Use HDA in Unity project
+- Use HDA in Unity project
 ![](Documentation/Images/HDA.jpg)
 
-Assign Textures
+- Assign Textures
 ![](Documentation/Images/Assign_Textures.jpg)
 
-Assign Trees
+- Assign Trees
 ![](Documentation/Images/Assign_Trees.jpg)
 
 
-Assign Details
+- Assign Details
 ![](Documentation/Images/Assign_Details.jpg)
 
 ## IMPORTANT: Details with HDRP
