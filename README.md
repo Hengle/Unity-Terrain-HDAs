@@ -3,7 +3,9 @@
 
 
 HDA's for creating Terrain in Unity with Houdini Engine\
-HDAs created and tested with Houdini 19.0.498
+HDAs created and tested with Houdini 19.0.498\
+Assets in images from [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808 "Terrain Sample Asset Pack") & [Unity Terrain - HDRP Demo Scene](https://assetstore.unity.com/packages/3d/environments/unity-terrain-hdrp-demo-scene-213198 "Unity Terrain - HDRP Demo Scene")
+
 
 
 ## unity_terrain_basic_example.hda
@@ -23,14 +25,19 @@ Copy the files into your otls directory "C:\Users\YourUser\Documents\houdini19.0
 Place the node in houdini\
 <img src="Documentation/Images/Add_Node.jpg" align="center" width="800"/>
 
-Allow editing of contents\
+Allow editing of contents
+<p align="center">
 <img src="Documentation/Images/Allow_Edit.jpg" align="center" />
+</p>
 
-Save As your new node so your changes won't modify the original\
+Save As your new node so your changes won't modify the original
+<p align="center">
 <img src="Documentation/Images/Save_As.jpg" align="center" width="800"/>
+</p>
 
 Remove nodes and replace with your own terrain setup. When assigning material layers the sum of the layers must equal 1\
 <img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="250"/> <img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="250"/> <img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="250"/>
+
 
 Save Node Type
 
