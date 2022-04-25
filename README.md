@@ -37,10 +37,7 @@ Save As
 
 Remove nodes and replace with your own
 
-<img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="200"/>
-<img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="200"/>
-<img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="200"/>
-
+<img src="Documentation/Images/Remove_Nodes.jpg" align="center" width="200"/> <img src="Documentation/Images/Nodes_Deleted.jpg" align="center" width="200"/> <img src="Documentation/Images/Replace_Nodes.jpg" align="center" width="200"/>
 
 Save
 
